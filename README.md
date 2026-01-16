@@ -4,7 +4,7 @@ Hi! I'm Serg
 Glad to see You here!
 ---------------------
 
-Now I'm studying at an organization @SENATOROVAI and want to understand mathematics for ML and DS.
+Now I'm studying at @SENATOROVAI and want to understand mathematics for ML and DS.
 
 The road to a thousand miles begins with the first step!
 
